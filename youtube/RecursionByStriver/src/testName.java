@@ -10,5 +10,6 @@ public class testName {
         Scanner sc = new Scanner(System.in);
        int n =  sc.nextInt();
         testingName(1,n);
+        System.out.println("hello world");
     }
 }
