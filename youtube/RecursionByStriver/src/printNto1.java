@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class printNto1 {
     public static void printNToOne(int i, int n) {
         if(i<1)
